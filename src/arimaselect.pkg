@@ -1,4 +1,4 @@
-v 0.0.1
+v 1.0.0
 
 d arimaselect. Calculo de estadísticas para selección del orden de los componentes AR y MA. Se intenta replicar los resultados del comando "arimasoc" para STATA versión 16
 d

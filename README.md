@@ -31,7 +31,7 @@ Contenido
 
 - [I. Instalación](#i-instalación)
 - [II. Descripción del Comando](#ii-descripción-del-comando)
-- [III. Ejemplos Prácticos](#iii-ejemplos-prácticos)
+- [III. Ejemplo Práctico](#iii-ejemplo-práctico)
 - [IV. Cómo Citar este Repositorio](#iv-cómo-citar-este-repositorio)
 - [Licencia](#licencia)
 
@@ -104,7 +104,7 @@ Una vez instalado, seguimos con el siguiente paso.
 
 Los datos mostrados para ambas figuras son las mismas, tanto los obtenidos por el comando **arimasoc** y **arimaselect** usando el mismo dataset para ambos casos.
 
-## 5). Cómo citar este repositorio
+## IV. Cómo citar este repositorio
 
 Si utilizas **ARIMASELECT** en tu investigación o trabajo académico, por favor considera citar este repositorio de la siguiente manera:
 
