@@ -108,7 +108,7 @@ Los datos mostrados para ambas figuras son las mismas, tanto los obtenidos por e
 
 Si utilizas **ARIMASELECT** en tu investigación o trabajo académico, por favor considera citar este repositorio de la siguiente manera:
 
-Jelsin Palomino. (2025). *JelsinPalomino/arimaselect: Estadísticas para seleccionar un modelo ARMA (v1.0.0)*
+Jelsin Palomino. (2025). *JelsinPalomino/arimaselect: Estadísticas para seleccionar un modelo ARIMA (v1.0.0)*
 
 Licencia
 --------
