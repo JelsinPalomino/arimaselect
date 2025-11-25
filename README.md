@@ -71,6 +71,7 @@ Para este ejemplo vamos a usar el mismo ejemplo que se encuentra en la documenta
 El ejemplo que se encuentra en la documentación es el siguiente:
 
 ![image](img/arimasoc.png)
+*Fuente: <a href="https://www.stata.com/manuals/tsarimasoc.pdf">documentación de arimasoc</a>, pág. 3*
 
 El código que usa el comando propuesto **arimaselect** se realiza de la siguiente manera:
 
