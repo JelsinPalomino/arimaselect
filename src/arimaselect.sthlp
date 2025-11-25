@@ -70,13 +70,13 @@ orden de los componentes AR y MA. Se intenta replicar los resultados del comando
 
 {hline}
 {pstd}Setup{p_end}
-{phang2}{cmd:. webuse wpi1}{p_end}
+{phang2}{cmd:. use https://www.stata-press.com/data/r19/usmacro}{p_end}
 
 {pstd}ARIMASELECT con valores de AR y MA por defecto (1){p_end}
-{phang2}{cmd:. arimaselect wpi}{p_end}
+{phang2}{cmd:. arimaselect ogap}{p_end}
 
 {pstd}ARIMASELECT con valores de AR y MA definidos{p_end}
-{phang2}{cmd:. arimaselect wpi, maxar(2) maxma(2)}
+{phang2}{cmd:. arimaselect ogap, maxar(2) maxma(2)}
 
 {hline}
 
