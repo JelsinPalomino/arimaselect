@@ -1,0 +1,9 @@
+v 2
+d Jelsin Stalin Palomino Huaytapuma, Economista (jstpalomino@hotmail.com)
+p arimasel ARIMASEL - Cálculo de estadísticas para selección del orden de los componentes AR y MA.
+
+* l word-to-show path-or-url [description]
+* t: Directories within site:
+* t path [description]
+* Packages:
+* p pkgname [description]

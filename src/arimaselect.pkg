@@ -1,0 +1,17 @@
+v 0.0.1
+
+d arimaselect. Calculo de estadísticas para selección del orden de los componentes AR y MA. Se intenta replicar los resultados del comando "arimasoc" para STATA versión 16
+d
+d Author: Jelsin Stalin Palomino Huaytapuma
+d
+d KW: series de tiempo
+d KW: arimasoc
+d KW: ARMA
+d KW: AR
+d KW: MA
+d
+d Requires: Stata version 16 and Windows 10
+d
+d Distribution-Date: 2025
+f arimaselect.ado
+f arimaselect.sthlp
